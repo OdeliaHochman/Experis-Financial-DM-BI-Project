@@ -29,4 +29,4 @@ This phase involved creating another table - Dates, calculated columns, and meas
 * Experis-Financial BI Project - BI System Specifications Document.pdf: Detailed project specifications.
 * ERD.JPG: Visual representation of the database schema, illustrating entity relationships.
 * Financial Data Mart Gantt.xlsx: Timeline representation showcasing project milestones and schedules.
-* Experis Financial Data Mart Project.pbix: The Power BI file housing the developed reports and visualizations.
+* Experis Financial Data Mart Project.pbix: The Power BI file with the developed reports and visualizations.
