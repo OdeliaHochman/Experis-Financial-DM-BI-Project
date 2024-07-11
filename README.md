@@ -2,6 +2,7 @@
 
 # Experis Financial Data Mart - BI Project
 Project in BI Systems Development course at Experis Academy. 
+
 This project is dedicated to crafting a comprehensive BI solution created for Experis's HR & Finance departments, featuring a data mart and reports developed in Power BI.
 
 ## Project Overview
