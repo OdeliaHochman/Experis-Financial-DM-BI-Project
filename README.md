@@ -11,7 +11,7 @@ Planning the data mart and reports, including crafting essential documents like 
 These artifacts provided the foundational blueprint for subsequent development phases.
 
 ### Data Mart Development: 
-The Data Mart creation will be done using data derived from the billing operational system database ( ExperisBillings), and it will include summarized data tables, focusing on the Company's customers, employees, departments ( Cyber , BI , Sales , etc.), and financial data.
+The Data Mart creation will be done using data derived from the billing operational system database ( ExperisBillings), and it will include summarized data tables, focusing on the Company's customers, employees, departments ( Cyber, BI, Sales, etc.), and financial data.
 
 ### Power BI Reports: 
 This phase involved creating another table - Dates, calculated columns, and measures using DAX to support the envisioned visualizations and, subsequently, proceeding to craft and design the visualizations.
@@ -27,6 +27,6 @@ This phase involved creating another table - Dates, calculated columns, and meas
 
 ## Repository Contents
 * Experis-Financial BI Project - BI System Specifications Document.pdf: Detailed project specifications.
-* ERD - Experis Financial Data Mart.JPG: Visual representation of the database schema, illustrating entity relationships.
+* ERD.JPG: Visual representation of the database schema, illustrating entity relationships.
 * Financial Data Mart Gantt.xlsx: Timeline representation showcasing project milestones and schedules.
 * Experis Financial Data Mart Project.pbix: The Power BI file housing the developed reports and visualizations.
