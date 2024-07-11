@@ -23,7 +23,7 @@ This phase involved creating another table - Dates, calculated columns, and meas
 * Employees Payrolls Report
 * Employees Details Report
 
-[Power BI Service](https://app.powerbi.com/Redirect?action=OpenReport&appId=cde6d38a-9cd7-42ec-bff2-3e18f1fe832e&reportObjectId=fc584c85-509f-40a6-8553-75fbb4de62f4&ctid=155e691f-6455-40f2-b075-37035eb699f8&reportPage=501ec87934329c9c08d6&pbi_source=appShareLink&portalSessionId=024dddfa-2479-417e-9d51-781f40b0dce3)
+[Power BI Service](https://app.powerbi.com/Redirect?action=OpenReport&appId=cde6d38a-9cd7-42ec-bff2-3e18f1fe832e&reportObjectId=f85cec9f-fa56-4c6c-8ee5-04189d2d98ba&ctid=155e691f-6455-40f2-b075-37035eb699f8&reportPage=501ec87934329c9c08d6&pbi_source=appShareLink&portalSessionId=024dddfa-2479-417e-9d51-781f40b0dce3)
 
 ## Repository Contents
 * Experis-Financial BI Project - BI System Specifications Document.pdf: Detailed project specifications.
